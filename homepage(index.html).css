@@ -1,0 +1,15 @@
+
+#banner{
+    	
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    #ExploreFood{
+        font-size: 15vw;
+        font-weight:900;
+        color: rgb(99, 158, 93);
+    }
+}
